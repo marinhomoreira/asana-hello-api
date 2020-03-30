@@ -1,0 +1,8 @@
+{
+  "name": "node-api-helloworld",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "asana": "^0.18.0"
+  }
+}
